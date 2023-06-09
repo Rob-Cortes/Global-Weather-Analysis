@@ -1,7 +1,6 @@
-# python-api-challenge
+# Weather Data Analysis & Visualization
 
-## Instructions
-This activity is broken down into two deliverables, WeatherPy and VacationPy.
+This is a regression analysis and map visualization of global weather data. The analysis is broken down into two deliverables, WeatherPy and VacationPy. 
 
 ### Part 1: WeatherPy
 This deliverable creates a Python script to visualize the weather of over 500 cities of varying distances from the equator. It uses the citipy Python library and the OpenWeatherMap API to create a representative model of weather across cities.
